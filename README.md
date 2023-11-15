@@ -2,11 +2,11 @@
 
 # Restaurant Readme
 
-#Toggle Between Light mode and Dark Mode
+# Toggle Between Light mode and Dark Mode
 
-![Light Mode](images/light.PNG)
+![Light Mode](assets/images/light.PNG)
 
-![Dark Mode](images/darkmode.PNG)
+![Dark Mode](assets/images/darkmode.PNG)
 
 Welcome to the Restaurant Site, where we bring the aroma of the dishes, the warmth of a welcoming ambiance, and the sizzle of culinary expertise right onto your screen. Every line of code, every color choice, was an ingredient in a recipe for an exceptional user experience.
 
